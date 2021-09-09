@@ -1,2 +1,2 @@
 # Web-2109
-Kurssi
+Syyskuussa 2021 Omniassa alkanut Web-ohjelmointikurssi. 
